@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="home">¡Bienvenido a destruyelo todo!</string>
+    <string name="app_name">¡Destruyelo todo!</string>
+    <string name="title_1">¡¡Destruye- </string>
+    <string name="title_2"> a-todos!!</string>
+    <string name="start">Comenzar</string>
+    <string name="accuracy">Acierto</string>
+    <string name="exit">Salir</string>
+    <string name="returnText">Regresar</string>
+    <string name="more">Mas</string>
+    <string name="moreText">Gracias por descargarte una de mis primeras aplicaciones. ¡Espero que te haya gustado!</string>
+	<string name="cafe">Mira mas en la web</string>
+	<string name="record">Puntuacion</string>
+	<string name="actualizado">Se ha establecido un nuevo record!</string>
+
+</resources>

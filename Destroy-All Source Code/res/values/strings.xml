@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="home">Welcome to Destroy all!</string>
+    <string name="app_name">Destroy all!</string>
+    <string name="title_1">¡¡Destroy- </string>
+    <string name="title_2"> all!!</string>
+    <string name="start">Start</string>
+    <string name="accuracy">Accuracy</string>
+    <string name="exit">Exit</string>
+    <string name="returnText">Return</string>
+    <string name="more">More</string>
+    <string name="moreText">Thanks for download one of my first apps. I hope you enjoyed it!</string>
+	<string name="cafe">See more on the web</string>
+	<string name="record">Score</string>
+	<string name="actualizado">a</string>
+	
+</resources>
